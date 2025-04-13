@@ -31,4 +31,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-**GitHub Repository:** [View on GitHub](https://github.com/Mira0058/RealEstateStreamlit)
+**GitHub Repository:** [https://github.com/Mira0058/RealEstateStreamlit](https://github.com/Mira0058/RealEstateStreamlit)
+
